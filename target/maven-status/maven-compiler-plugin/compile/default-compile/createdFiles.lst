@@ -1,0 +1,10 @@
+com/algonquincollege/cst8277/lab/modelentities/EntityEHasMany.class
+com/algonquincollege/cst8277/lab/restendpoints/GoodbyeWorldRestResource.class
+module-info.class
+com/algonquincollege/cst8277/lab/modelentities/PojoBase.class
+com/algonquincollege/cst8277/lab/modelentities/EntityDHasManyCees.class
+com/algonquincollege/cst8277/lab/modelentities/SetOfEntityDeesSerializer.class
+com/algonquincollege/cst8277/lab/modelentities/EntityCHasManyDees.class
+com/algonquincollege/cst8277/lab/modelentities/EntityFHasManyToOneBackReference.class
+com/algonquincollege/cst8277/lab/restendpoints/C2DRestResource.class
+com/algonquincollege/cst8277/lab/restendpoints/D2CRestResource.class
